@@ -22,7 +22,7 @@ class Awork
             for(int c=0;c<n;c++)
                 a[r][c]=sc.nextInt();
         }
-        System.out.println("Given array is");
+        System.out.println("Given array elements are:");
         for(int r=0;r<m;r++)
         {
             for(int c=0;c<n;c++)
